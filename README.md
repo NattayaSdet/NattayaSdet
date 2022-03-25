@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NattayaSdet
-- 👀 I’m interested in Java, Selenium, Python
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java, Selenium, Cucumber
 - 💞️ I’m looking to collaborate on automation testing
 - 📫 How to reach : nattayasdet@gmail.com
 
